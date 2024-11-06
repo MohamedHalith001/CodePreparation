@@ -8,4 +8,5 @@ Info-sys Interview Questions
 
 LeetCode Problems
 
-1. [TwoSum](https://leetcode.com/problems/two-sum)
+1. [TwoSum - Easy](https://leetcode.com/problems/two-sum)
+2. [Palindrome Number - Easy](https://leetcode.com/problems/palindrome-number)
