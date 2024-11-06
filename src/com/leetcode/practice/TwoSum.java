@@ -24,7 +24,6 @@ public class TwoSum {
 
 			// Pushing each number and indices in a map
 			numberIndex.put(nums[i], i);
-
 		}
 		
 		//Return null if no complement is found
